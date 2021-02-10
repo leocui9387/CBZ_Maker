@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CBZ_Maker": {
+      "commandName": "Project",
+      "commandLineArgs": "Leo stuff test"
+    }
+  }
+}
